@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana;
+    background-color: beige;
+}
+
+.links{
+    color: rgb(132, 161, 88);
+    margin: 0px;
+}
+h3, h1{
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: rgb(132, 161, 88);
+}
+a:hover {
+    color: rgb(73, 90, 48);
+}
